@@ -1,5 +1,6 @@
 # GameOfLife
-CocosCreator Cellular Automata
+CocosCreator Cellular Automata  
+creator version 2.0.10
 
 ## preview  
 
