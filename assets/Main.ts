@@ -1,10 +1,10 @@
-import Cell from "./cell";
+import Cell from "./Cell";
 import Const from "./Const";
 import worker from './Worker'
 const { ccclass, property } = cc._decorator;
 
 @ccclass
-export default class World extends cc.Component {
+export default class Main extends cc.Component {
 
     @property(cc.Node)
     world: cc.Node = null;
